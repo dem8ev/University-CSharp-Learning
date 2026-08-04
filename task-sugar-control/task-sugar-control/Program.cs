@@ -15,7 +15,7 @@ namespace task_sugar_control
             a = Int32.Parse(Console.ReadLine());
             if (a == 0)
             {
-                Console.WriteLine("Отлично! Вы супер, жирок на боках уходит эффективнее =)");
+                Console.WriteLine("Отлично! Вы супер, жирок на боках уходит эффективнее =)"); 
             }
             else
             {
